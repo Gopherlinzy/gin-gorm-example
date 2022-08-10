@@ -1,0 +1,7 @@
+[INFO][article.go:76]2022/08/08 21:10:47 [err.key: %s, err.message: %s state 状态只允许0或1]
+[INFO][article.go:76]2022/08/08 21:11:27 [err.key: %s, err.message: %s state 状态只允许0或1]
+[INFO][article.go:76]2022/08/08 21:12:32 [err.key: %s, err.message: %s state 状态只允许0或1]
+[INFO][article.go:76]2022/08/08 21:12:58 [err.key: %s, err.message: %s tag_id 标签ID必须大于0]
+[INFO][article.go:76]2022/08/08 21:13:16 [err.key: %s, err.message: %s tag_id 标签ID必须大于0]
+[INFO][article.go:76]2022/08/08 21:14:28 [err.key: %s, err.message: %s state 状态只允许0或1]
+[INFO][article.go:76]2022/08/08 21:14:28 [err.key: %s, err.message: %s tag_id 标签ID必须大于0]
