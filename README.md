@@ -69,3 +69,4 @@ go run main.go
 - logging
 - Graceful restart or stop (fvbock/endless)
 - App configurable
+- Docker
