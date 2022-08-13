@@ -4,4 +4,3 @@
 # Installation
 '''go
 go get github.com/EDDYCJY/go-gin-example
-'''
