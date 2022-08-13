@@ -6,6 +6,14 @@ type Auth struct {
 	Password string `json:"password"`
 }
 
+func InitAuth() {
+	db.AutoMigrate(&Auth{})
+	db.Create(&Auth{
+		Username: "admin",
+		Password: "123456",
+	})
+}
+
 func CheckAuth(username, password string) bool {
 	var auth Auth
 	db.Select("id").Where(Auth{Username: username, Password: password}).First(&auth)
